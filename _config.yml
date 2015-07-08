@@ -1,0 +1,12 @@
+# Build settings
+baseurl: /bc
+markdown: kramdown
+permalink: pretty
+keywords: 'bandcamp, player, custom'
+
+port: 0000
+
+exclude: ['README.md']
+
+# for open graph
+#basedomain: http://irukanji-music.com
