@@ -1,2 +1,3 @@
-# bandcamp-music-players
-bandcamp music players
+# Custom Bandcamp Music Players
+
+Examples [ihororlovskyi.github.io/bc](ihororlovskyi.github.io/bc)
