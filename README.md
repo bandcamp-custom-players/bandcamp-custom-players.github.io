@@ -1,3 +1,3 @@
 # Custom Bandcamp Music Players
 
-Examples [ihororlovskyi.github.io/bc](http://ihororlovskyi.github.io/bc)
+Soon on [bandcamp-custom-players.github.io](http://bandcamp-custom-players.github.io)
