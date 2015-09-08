@@ -1,3 +1,7 @@
-# Custom Bandcamp Music Players
+# Bandcamp Play
 
-Soon on [bandcamp-custom-players.github.io](http://bandcamp-custom-players.github.io)
+Catalogue of custom players for bandcamp 
+
+[bandcamp-play.github.io](http://bandcamp-play.github.io)
+
+
